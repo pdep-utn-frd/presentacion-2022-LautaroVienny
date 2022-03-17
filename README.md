@@ -9,4 +9,4 @@ Legajo: 10939
 - Vivo en Baradero
 - Tengo una mascota 
 
-
+![foto](india.jpg)
