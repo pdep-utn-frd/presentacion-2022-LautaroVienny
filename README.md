@@ -8,5 +8,6 @@ Legajo: 10939
 - Tengo 22 años
 - Vivo en Baradero
 - Tengo una mascota 
+- Me gusta escuchar música
 
 ![foto](india.jpg)
